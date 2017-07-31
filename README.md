@@ -20,6 +20,10 @@ Because of my schedule, I won't be able to finish the program completely, so it 
 * Be able to search book(s) and have it selected in the table
 * Be able to have buttons and certain features aligned nicely
 * When window is stretched, features will be intact
+## Problems
+* When adding a title of a book into the program and it has a comma within it, then program will crash when reopening
+* Shouldn't be allowed to open more than one add book window
+I will fix all problems in the future
 ## Suggestions
 If you have suggestions that are not included in the features or future features or how to improve existing features, then push a file onto Github called suggestions.txt into this repository with explanations and I will get to them eventually
 ## Having Problems or Want to Report a Bug
